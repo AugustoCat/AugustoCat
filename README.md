@@ -14,10 +14,10 @@ I have worked on projects involving web page development and usability testing, 
 🌟 Soft Skills
 Beyond technical expertise, I am:
 
-Organized: I manage tasks efficiently and prioritize effectively.
-Problem-Solver: I enjoy tackling challenges that push me beyond my limits.
-Adaptable & Fast Learner: I quickly grasp new technologies and methodologies.
-Team Player: I thrive in collaborative environments and enjoy working with diverse teams.
+- **Organized:** I manage tasks efficiently and prioritize effectively.  
+- **Problem-Solver:** I enjoy tackling challenges that push me beyond my limits.  
+- **Adaptable & Fast Learner:** I quickly grasp new technologies and methodologies.  
+- **Team Player:** I thrive in collaborative environments and enjoy working with diverse teams.  
 
 
 <div style="display: inline_block"><br>
