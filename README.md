@@ -6,8 +6,8 @@ I am passionate about technology and continuous learning, always seeking new way
 🔧 Technical Skills
 I have a solid academic foundation in:
 
-Frontend: HTML, CSS, JavaScript and React
-Backend: Java, C#, MySQL, PostgreSQL
+- Frontend: HTML, CSS, JavaScript and React
+- Backend: Java, C#, MySQL, PostgreSQL
 
 I have worked on projects involving web page development and usability testing, which have helped me develop a keen eye for detail and efficiency.
 
