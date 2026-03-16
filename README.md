@@ -1,4 +1,4 @@
-## Augusto Catuzzo
+## Catuzzo
 
 🚀 About Me
 I am passionate about technology and continuous learning, always seeking new ways to grow and contribute. Currently, I’m pursuing a degree in Internet Systems Technology at the Federal University of Technology – Paraná (UTFPR), where I am developing essential skills to create innovative digital solutions.
